@@ -10,3 +10,9 @@ After you have git clone this repo into your home directory
 mv ~/object-tracking-detection/opencv_install ~/opencv_install.sh
 sudo ./opencv_install.sh
 ```
+# Dependencies 
+1. opencv3.4
+2. Scipy
+3. Numpy
+4. Tensorflow
+5. imutils
