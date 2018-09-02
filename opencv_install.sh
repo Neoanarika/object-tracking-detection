@@ -23,3 +23,5 @@ cd ~/opencv-3.4.2/build && make clean
 cd ~/opencv-3.4.2/build && make
 cd ~/opencv-3.4.2/build && sudo make install
 cd ~/opencv-3.4.2/build && sudo ldconfig
+
+conda install --channel https://conda.anaconda.org/menpo opencv3
