@@ -2,6 +2,7 @@
 
 This project aims to develop a simple and efficient 
 object tracking and detection framework using yolo for raspberry pi.
+Currently readNet feature for opencv3.4 is only for python 3.5. 
 
 # Installing opencv3.4 on raspberry pi 3
 
@@ -16,3 +17,4 @@ sudo ./opencv_install.sh
 3. Numpy
 4. Tensorflow
 5. imutils
+
